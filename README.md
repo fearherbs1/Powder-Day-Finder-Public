@@ -36,4 +36,5 @@ units: i or m
 
 # Dependencies
 * requests
+* Weather Unlocked free API Key
 
