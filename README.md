@@ -1,6 +1,8 @@
 # Powder Day Finder Public
-CSI-160 Final Project for Finding That Sweet Pow
-By Thomas & Ethan  
+My CSI-160 Final Project for Finding That Sweet Pow.  
+
+This was created duing my sophomore year by myself, Thomas, and my good friend Ethan.    
+
 Using this program you can check for snow and powder days a week out at any ski resort.
 
 # Usage
